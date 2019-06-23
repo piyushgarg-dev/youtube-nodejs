@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background: orangered;
+    color: white;
+    font-weight: bolder;
+    font-size: 24px;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    letter-spacing: 5px;
+}
+.form{
+    max-width: 80%;
+    margin: auto;
+
+    margin-top:20px; 
+
+}
+form{
+    justify-content: center;
+    text-align: center;
+    font-size: 23px;
+
+}
+input[type="url"]{
+    width: 80%;
+    margin: 5px;
+    padding: 3px;
+    
+}
+input[type="submit"]{
+    margin: 5px;
+}
